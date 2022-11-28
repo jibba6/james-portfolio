@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/james-portfolio/static/css/main.834aaf63.css",
-    "main.js": "/james-portfolio/static/js/main.ce34e03d.js",
+    "main.css": "/james-portfolio/static/css/main.1f0aac6f.css",
+    "main.js": "/james-portfolio/static/js/main.87a57c96.js",
     "static/js/787.1c87a6b7.chunk.js": "/james-portfolio/static/js/787.1c87a6b7.chunk.js",
+    "static/media/redsox.jpeg": "/james-portfolio/static/media/redsox.d5be3050fc1d0293d327.jpeg",
     "static/media/logo.svg": "/james-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/james-portfolio/index.html",
-    "main.834aaf63.css.map": "/james-portfolio/static/css/main.834aaf63.css.map",
-    "main.ce34e03d.js.map": "/james-portfolio/static/js/main.ce34e03d.js.map",
+    "main.1f0aac6f.css.map": "/james-portfolio/static/css/main.1f0aac6f.css.map",
+    "main.87a57c96.js.map": "/james-portfolio/static/js/main.87a57c96.js.map",
     "787.1c87a6b7.chunk.js.map": "/james-portfolio/static/js/787.1c87a6b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.834aaf63.css",
-    "static/js/main.ce34e03d.js"
+    "static/css/main.1f0aac6f.css",
+    "static/js/main.87a57c96.js"
   ]
 }
