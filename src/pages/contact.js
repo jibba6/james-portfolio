@@ -27,7 +27,7 @@ function Contact () {
     </Col>
     <Col md={6}>
       <FormGroup>
-        <Label for="name">
+        <Label for="github">
           Name
         </Label>
         <Input

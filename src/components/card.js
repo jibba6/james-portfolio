@@ -18,12 +18,16 @@ const CardContainer = (props) => {
     <CardText>
       Some quick example text to build on the card title and make up the bulk of the card‘s content.
     </CardText>
+    <a href={props.live}>
     <Button>
       live site
     </Button>
+    </a>
+    <a href={props.github}>
     <Button>
      code site
     </Button>
+    </a>
   </CardBody>
 </Card>
     )
