@@ -1,1 +1,4 @@
-This is my portfolio for class. It contains several homeworks and projects I completed during my course.
+Description:
+ My motivation was to build a portfolio to help me find a job in computer coding.
+ installation:
+ npm i
