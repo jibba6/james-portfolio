@@ -5,6 +5,7 @@ import coding from "../assets/codingquiz.jpeg"
 import Ecommerce from "../assets/Ecommerce.jpeg"
 import Social from "../assets/Social.jpeg"
 import Tracker from "../assets/Employee-Tracker.jpeg"
+import erics from "../assets/ericsemporium.jpeg"
 function Portfolio () {
    const data = [
     {
@@ -36,10 +37,10 @@ function Portfolio () {
         img:{Social},
     },
     {
-        title:"Employee Tracker",
-        github:"https://github.com/jibba6/Employee-Tracker",
-        live:"https://jibba6.github.io/Employee-Tracker/",
-        img:{Tracker}
+        title:"Erics-Emporium",
+        github:"https://github.com/ccottrell52/E-commerce-Project3",
+        live:"https://erics-emporium.herokuapp.com/"
+        img:{erics}
     }
     
    ]
