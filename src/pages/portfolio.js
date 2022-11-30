@@ -39,7 +39,7 @@ function Portfolio () {
     {
         title:"Erics-Emporium",
         github:"https://github.com/ccottrell52/E-commerce-Project3",
-        live:"https://erics-emporium.herokuapp.com/"
+        live:"https://erics-emporium.herokuapp.com/",
         img:{erics}
     }
     
